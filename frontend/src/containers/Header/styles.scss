@@ -1,0 +1,18 @@
+@import '../../containers/App/styles/variables';
+
+:local(.styles) {
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  z-index: 1;
+
+  h1 {
+    font-size: 20px !important;
+  }
+
+  .tabs {
+    // padding-top: 20px; 
+    margin-top: 0px;
+  }
+
+}

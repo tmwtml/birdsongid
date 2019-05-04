@@ -1,0 +1,82 @@
+﻿id,name_th,name_en,name_sc
+0,ไม่พบนก,None of birds,None of birds
+1,นกเป็ดผีเล็ก ,Little Grebe  ,Tachybaptus ruficollis
+2,นกกวัก ,White-breasted Waterhen  ,Amaurornis phoenicurus
+3,นกกระแตแต้แว้ด,Red-wattled Lapwing  ,Vanellus indicus
+4,นกแอ่นทุ่งใหญ่,Oriental Pratincole   ,Glareola maldivarum
+5,นกพิราบป่า,Rock Pigeon  ,Columba livia 
+6,นกเขาไฟ,Red Collared Dove ,Streptopelia tranquebarica
+7,นกเขาใหญ่,Eastern Spotted Dove   ,Spilopelia chinensis 
+8,นกเขาชวา,Zebra Dove  ,Geopelia striata
+9,นกกระปูดใหญ่ ,Greater Coucal  ,Centropus sinensis
+10,นกกระปูดเล็ก ,Lesser Coucal  ,Centropus bengalensis 
+11,นกกาเหว่า,Asian Koel  ,Eudynamys scolopaceus
+12,นกอีวาบตั๊กแตน,Plaintive Cuckoo  ,Cacomantis merulinus
+13,นกแสก,Eastern Barn Owl,Tyto javanica
+14,"นกฮูก, นกเค้ากู่",Collared Scops Owl ,Otus lettia
+15,"นกเค้าโมง, นกเค้าแมว",Asian Barred Owlet  ,Glaucidium cuculoides
+16,นกเค้าจุด,Spotted Owlet ,Athene brama
+17,นกตบยุงหางยาว,Large-tailed Nightjar   ,Caprimulgus macrurus
+18,นกตบยุงเล็ก,Indian Nightjar  ,Caprimulgus asiaticus 
+19,นกแอ่นกินรัง ,Pale-rumped Swiftlet ,Aerodramus germani
+20,นกแอ่นตาล,Asian Palm Swift  ,Cypsiurus balasiensis
+21,นกแอ่นบ้าน ,House Swift  ,Apus nipalensis
+22,นกตะขาบทุ่ง,Indian Roller,Coracias benghalensis
+23,นกกะเต็นอกขาว,White-throated Kingfisher  ,Halcyon smyrnensis
+24,นกกะเต็นหัวดำ,Black-capped Kingfisher  ,Halcyon pileata 
+25,นกกินเปี้ยว,Collared Kingfisher  ,Todiramphus chloris
+26,นกกะเต็นน้อยธรรมดา,Common Kingfisher  ,Alcedo atthis
+27,นกจาบคาเล็ก,Green Bee-eater  ,Merops orientalis
+28,นกจาบคาหัวเขียว ,Blue-tailed Bee-eater  ,Merops philippinus
+29,นกจาบคาคอสีฟ้า,Blue-throated Bee-eater  ,Merops viridis
+30,นกจาบคาหัวสีส้ม,Chestnut-headed Bee-eater   ,Merops leschenaulti
+31,นกกะรางหัวขวาน,Eurasian Hoopoe,Upupa epops 
+32,นกตั้งล้อ ,Great Barbet ,Psilopogon virens
+33,นกโพระดกธรรมดา ,Lineated Barbet  ,Psilopogon lineatus
+34,นกตีทอง,Coppersmith Barbet  ,Psilopogon haemacephalus
+35,นกแต้วแล้วธรรมดา,Blue-winged Pitta ,Pitta moluccensis 
+36,นกแอ่นพง,Ashy Woodswallow  ,Artamus fuscus 
+37,นกขมิ้นน้อยธรรมดา,Common Iora ,Aegithina tiphia
+38,นกแซงแซวหางปลา,Black Drongo  ,Dicrurus macrocercus
+39,นกแซงแซวสีเทา,Ashy Drongo  ,Dicrurus leucophaeus
+40,นกแซงแซวเล็กเหลือบ,Bronzed Drongo  ,Dicrurus aeneus
+41,นกแซงแซวหงอนขน,Hair-crested Drongo ,Dicrurus hottentottus
+42,นกแซงแซวหางบ่วงใหญ่,Greater Racquet-tailed Drongo  ,Dicrurus paradiseus
+43,นกอีแพรดแถบอกดำ,Malaysian Pied Fantail  ,Rhipidura javanica
+44,นกกาแวน,Racquet-tailed Treepie  ,Crypsirina temia
+45,อีกา,Large-billed Crow  ,Corvus macrorhynchos
+46,นกจับแมลงหัวเทา,Grey-headed Canary-flycatcher  ,Culicicapa ceylonensis
+47,นกปรอดเหลืองหัวจุก,Black-crested Bulbul  ,Pycnonotus flaviventris
+48,นกปรอดหัวโขน,Red-whiskered Bulbul ,Pycnonotus jocosus
+49,นกปรอดหัวสีเขม่า,Sooty-headed Bulbul  ,Pycnonotus aurigaster
+50,นกปรอดหน้านวล,Yellow-vented Bulbul ,Pycnonotus goiavier
+51,นกปรอดสวน,Streak-eared Bulbul ,Pycnonotus conradi
+52,นกนางแอ่นบ้าน,Barn Swallow  ,Hirundo rustica
+53,นกกระจิ๊ดธรรมดา,Yellow-browed Leaf Warbler  ,Phylloscopus inornatus
+54,นกกระจิ๊ดขั้วโลกเหนือ,Arctic Leaf Warbler  ,Phylloscopus borealis
+55,นกกระจิ๊ดคัมชัตกา,Kamchatka Leaf Warbler,Phylloscopus examinandus
+56,นกกระจิ๊ดพันธุ์ญี่ปุ่น,Japanese Leaf Warbler,Phylloscopus xanthodryas
+57,นกกระจิ๊ดเขียวคล้ำ,Greenish Leaf Warbler  ,Phylloscopus trochiloides
+58,นกกระจิ๊ดเขียวปีกสองแถบ,Two-barred Leaf Warbler,Phylloscopus plumbeitarsus
+59,นกกระจิ๊ดขาสีเนื้อ,Pale-legged Leaf Warbler  ,Phylloscopus tenellipes
+60,นกกระจิ๊ดซาคาลิน,Sakhalin Leaf Warbler ,Phylloscopus borealoides
+61,นกกระจิบหญ้าท้องเหลือง,Yellow-bellied Prinia  ,Prinia flaviventris
+62,นกกระจิบหญ้าสีเรียบ,Plain Prinia  ,Prinia inornata
+63,นกกะรางหัวหงอก,White-crested Laughingthrush  ,Garrulax leucolophus
+64,นกเอี้ยงหงอน,White-vented Myna ,Acridotheres grandis
+65,นกเอี้ยงสาริกา,Common Myna  ,Acridotheres tristis
+66,นกกิ้งโครงคอดำ,Black-collared Myna ,Gracupica nigricollis
+67,นกจับแมลงสีน้ำตาล,Asian Brown Flycatcher  ,Muscicapa dauurica
+68,นกจับแมลงคอแดง,Taiga Flycatcher  ,Ficedula albicilla
+69,นกยอดหญ้าหัวดำ,Eastern Stonechat ,Saxicola maurus
+70,"นกยอดหญ้าสีดำ, นกขี้หมา",Pied Bushchat  ,Saxicola caprata
+71,นกสีชมพูสวน,Scarlet-backed Flowerpecker  ,Dicaeum cruentatum
+72,นกกินปลีคอสีน้ำตาล,Brown-throated Sunbird  ,Anthreptes malacensis
+73,นกกินปลีดำม่วง,Purple Sunbird ,Cinnyris asiaticus
+74,นกกินปลีอกเหลือง,Olive-backed Sunbird ,Cinnyris jugularis
+75,นกกระจอกใหญ่,House Sparrow  ,Passer domesticus
+76,นกกระจอกตาล,Plain-backed Sparrow ,Passer flaveolus
+77,นกกระจอกบ้าน,Eurasian Tree Sparrow   ,Passer montanus
+78,นกกระจาบธรรมดา,Baya Weaver  ,Ploceus philippinus
+79,นกกระติ๊ดตะโพกขาว,White-rumped Munia  ,Lonchura striata
+80,นกกระติ๊ดขี้หมู ,Scaly-breasted Munia  ,Lonchura punctulata 
