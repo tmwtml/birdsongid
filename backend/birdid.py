@@ -20,7 +20,7 @@ import torchvision.datasets as datasets
 import torchvision.models as models
 
 
-N_CLASS = 81
+N_CLASS = 40
 
 
 class ABLoader(data.Dataset):
@@ -219,7 +219,7 @@ def idenclass(wav, MODE='binary'):
     bestNet = CubeNet()
 
     if MODE == 'binary':
-        checkpoint = torch.load('best80class_bin.pth', map_location=lambda storage, loc: storage)
+        checkpoint = torch.load('best40class_bin.pth', map_location=lambda storage, loc: storage)
 
         def layer(x):
             return F.sigmoid(x)
